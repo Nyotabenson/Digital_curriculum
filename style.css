@@ -270,3 +270,20 @@ p{
         grid-template-columns: repeat(1fr 1.5fr);
     }
 }
+
+.projects .box
+{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 5px;
+}
+.projects .box .iconz
+{
+    min-width: 100px;
+    font-size: 30px;
+    color: #03a9f4;
+}
+.projects .box  h4
+{
+color: #2a7da2;
+}
