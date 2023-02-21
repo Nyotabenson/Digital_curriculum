@@ -149,8 +149,20 @@ margin-top: 5px;
     background: #03a9f4;
 }
 
-
-
+.download-btn
+{
+    background-color:rgb(240, 241, 242);
+    color: #c2860e;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.download-text
+{
+    color: #f0f0f0;
+    margin-bottom: 30px;
+}
 .container .right_side
 {
     position: relative;
